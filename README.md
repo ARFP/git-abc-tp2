@@ -9,15 +9,17 @@
 
 Cet exercice doit être réalisé en équipe de 2 personnes.
 
-
 # Préparation du projet
 
-1. Le 1er membre de l'équipe crée un dépôt public nommé tp-abc-git-a-deux.
-    - Cocher la case "Add README"
-    - Ajouter la License "MIT"
-3. Le 1er membre invite son binôme en tant que "collaborateur" du dépôt.
+1. Le 1er membre de l'équipe crée un dépôt public nommé **tp-abc-git-a-deux**.
+    - Cocher la case "**Add README**"
+    - Ajouter la License "**MIT**"
+2. Le 1er membre invite son binôme en tant que "**collaborateur**" du dépôt.
+3. Les 2 membres de l'équipe prennent connaissance des tâches à effectuer (dans la partie "Travail à réaliser" de ce document) et créent les tickets nécessaires.
 4. Les 2 membres de l'équipe clonent le dépôt en local sur leur machine.
-5. Les 2 membres de l'équipe prennent connaissance des tâches à effectuer (dans la partie "Travail à réaliser" de ce document) et créent les tickets nécessaires.
+5. Les 2 membres travaillent sur les tickets qui leur sont attribués
+    - **Membre 1 :** Le membre du binôme qui a créé le dépôt.
+    - **Membre 2 :** Le membre qui a été invité comme collaborateur du dépôt.
 
 # Démarche à adopter 
 
@@ -32,7 +34,8 @@ En d'autres termes :
 
 > Note: Créez tous les tickets AVANT de commencer à coder !
 
-# Travail à réaliser 
+
+# Travail à réaliser (1ère partie)
 
 Vous allez travailler sur des fichiers au format "Markdown" (extension des fichiers: `.md`).
 
@@ -62,5 +65,28 @@ Prenez quelques minutes pour en apprendre plus sur ce format : [https://programm
 
 10. **Membre 2 :** Modifier les fichiers `dwwm.md` et `cda.txt` et mettez les titres en MAJUSCULES.
 
+
+> Valider votre travail avec vos formateurs.
+
+# Travail à réaliser (2nde partie)
+
+Organisez vous à 2 pour ajouter dans les fichiers `dwwm.md` et `cda.md` : 
+
+1. Un titre "Description" suivi d'un paragraphe contenant une description de la formation
+   - Faire un commit et un push 
+2. Un titre "Durée" suivi d'un paragraphe contenant la durée de la formation exprimée en heures et en mois
+   - Faire un commit et un push 
+3. Un titre "Objectifs" suivi d'un paragraphe contenant Les objectifs de la formation
+   - Faire un commit et un push
+
+   
+Ces informations sont accessibles sur ce lien : [https://www.crm68.fr/orientation-et-formation-professionnelle/je-recherche-une-formation/me-former-a-un-metier/informatique/](https://www.crm68.fr/orientation-et-formation-professionnelle/je-recherche-une-formation/me-former-a-un-metier/informatique/) 
+
+Une fois ces informations ajoutées faites une recherche sur le web et ajouter dans chaque fichier (dwwm.md et cda.md) : 
+1. Un titre "Fiche(s) ROME" suivi d'un ou plusieurs liens vers la ou les **fiches ROME** correspondant à la formation 
+2. Un titre "Métiers accessibles (liste non exhaustive)"
+3. Une liste des métiers accessibles (au moins 5 métiers par formation, uniquement les intitulés)
+
+Puis faire un commit et un push final.
 
 > Valider votre travail avec vos formateurs.
