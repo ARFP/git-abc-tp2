@@ -61,7 +61,7 @@ Prenez quelques minutes pour en apprendre plus sur ce format : [https://programm
 
 # Travail à réaliser (2nde partie)
 
-Organisez vous à 2 pour ajouter dans les fichiers `dwwm.md` et `cda.md` : 
+Organisez vous à 2 pour ajouter dans les fichiers `dwwm.md` et `cda.md` (pensez à créer les tickets correspondants) : 
 
 1. Un titre "Description" suivi d'un paragraphe contenant une description de la formation
    - Faire un commit et un push 
