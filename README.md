@@ -74,10 +74,9 @@ Organisez vous à 2 pour ajouter dans les fichiers `dwwm.md` et `cda.md` (pensez
 Ces informations sont accessibles sur ce lien : [https://www.crm68.fr/orientation-et-formation-professionnelle/je-recherche-une-formation/me-former-a-un-metier/informatique/](https://www.crm68.fr/orientation-et-formation-professionnelle/je-recherche-une-formation/me-former-a-un-metier/informatique/) 
 
 Une fois ces informations ajoutées faites une recherche sur le web et ajouter dans chaque fichier (dwwm.md et cda.md) : 
+
 1. Un titre "Fiche(s) ROME" suivi d'un ou plusieurs liens vers la ou les **fiches ROME** correspondant à la formation 
 2. Un titre "Métiers accessibles (liste non exhaustive)"
 3. Une liste des métiers accessibles (au moins 5 métiers par formation, uniquement les intitulés)
-
-Puis faire un commit et un push final.
 
 > Valider votre travail avec vos formateurs.
