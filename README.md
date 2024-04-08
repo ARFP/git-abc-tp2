@@ -43,27 +43,18 @@ Prenez quelques minutes pour en apprendre plus sur ce format : [https://programm
 
 **Rappel : faites obligatoirement un COMMIT et un PUSH après chaque tâche enumérée dans ce fichier.**
 
-1. **Membre 1 :** Dans le dépôt, modifier le fichier `README.md` et ajouter une ligne vide suivie d'une ligne contenant le texte `Bienvenue dans le dépôt de X`
-   - Remplacez X par le prénom du membre 1
-
-2. **Membre 2 :** Modifier le fichier `README.md` et modifier la ligne `Bienvenue dans le dépôt de X` en y ajoutant votre prénom.
-   - Le texte doit maintenant être : "Bienvenue dans le dépôt de X et Y" où X et Y sont les prénoms des 2 collaborateurs.
-     
-3. **Membre 1 :** Créer un fichier `abc.md` contenant le titre `# Pré-qualifiante ABC DEV`. (le dièse en début de ligne indique que la ligne est un titre).
-
-4. **Membre 2 :** Créer un fichier `dwwm.md` contenant le titre `Formation DWWM` ainsi que le texte `La formation DWWM est de niveau 5` 2 lignes en dessous.
-  
-5. **Membre 1 :** Créer un fichier `cda.md` contenant le titre `Formation CDA` ainsi que le texte `La formation CDA est de niveau 6` 2 lignes en dessous.
-
-6. **Membre 2 :** Dans le fichier `cda.md`, ajouter une ligne vide suivie d'une ligne contenant le texte `Le niveau 6 correspond à un niveau BAC+3 en France`.
-
-7. **Membre 1 :** Dans le fichier `dwwm.md`, ajouter une ligne vide suivie d'une ligne contenant le texte `Le niveau 5 correspond à un niveau BAC+2 en France`.
-
-8. **Membre 2 :** Dans le fichier `README.md` ajouter une ligne contenant le texte : `Collaborateur 1` suivi d'un lien vers votre compte github.
-
-9. **Membre 1 :** Dans le fichier `README.md` ajouter une ligne contenant le texte : `Collaborateur 2` suivi d'un lien vers votre compte github.
-
-10. **Membre 2 :** Modifier les fichiers `dwwm.md` et `cda.txt` et mettez les titres en MAJUSCULES.
+| # | Qui | Tâche(s) à réaliser |
+| --- | --- | --- |
+| 1 | Membre 1 | Dans le dépôt, modifier le fichier `README.md` et ajouter une ligne vide suivie d'une ligne contenant le texte `Bienvenue dans le dépôt de X` (Remplacez X par le prénom du membre 1)  |
+| 2 | Membre 2 | Modifier le fichier `README.md` et modifier la ligne `Bienvenue dans le dépôt de X` en y ajoutant votre prénom. (Le texte doit maintenant être : "Bienvenue dans le dépôt de X et Y" où X et Y sont les prénoms des 2 collaborateurs)|
+| 3 | Membre 1 | Créer un fichier `abc.md` contenant le titre `# Pré-qualifiante ABC DEV`. (le dièse en début de ligne indique que la ligne est un titre).  |
+| 4 | Membre 2 | Créer un fichier `dwwm.md` contenant le titre `Formation DWWM` ainsi que le texte `La formation DWWM est de niveau 5` 2 lignes en dessous. |
+| 5 | Membre 1 | Créer un fichier `cda.md` contenant le titre `Formation CDA` ainsi que le texte `La formation CDA est de niveau 6` 2 lignes en dessous. |
+| 6 | Membre 2 | Dans le fichier `cda.md`, ajouter une ligne vide suivie d'une ligne contenant le texte `Le niveau 6 correspond à un niveau BAC+3 en France`. |
+| 7 | Membre 1 | Dans le fichier `dwwm.md`, ajouter une ligne vide suivie d'une ligne contenant le texte `Le niveau 5 correspond à un niveau BAC+2 en France`. |
+| 8 | Membre 2 | Dans le fichier `README.md` ajouter une ligne contenant le texte : `Collaborateur 1` suivi d'un lien vers votre compte github. |
+| 9 | Membre 1 | Dans le fichier `README.md` ajouter une ligne contenant le texte : `Collaborateur 2` suivi d'un lien vers votre compte github. |
+| 10 | Membre 2 | Modifier les fichiers `dwwm.md` et `cda.txt` et mettez les titres en MAJUSCULES. |
 
 
 > Valider votre travail avec vos formateurs.
